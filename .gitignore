@@ -1,0 +1,23 @@
+
+# Secret Files I don't want people to know about
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+# Exclude Design Files
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xd
+
+
+# Exclude Text Files
+*.txt
+#Expect read me
+!README.md
+
+
+# Remove mac files
+.DS_Store
